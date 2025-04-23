@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @alfonsocardenas
 
 ## About Me
-I'm a creative thinker passionate about web development and the endless possibilities of technology. I have a particular interest in the fields of Artificial Intelligence and creativity, and I'm always looking to learn, innovate, and share my knowledge.
+I'm a Creative Ops Consultant passionate about web development and the endless possibilities of technology. I have a particular interest in the fields of Artificial Intelligence and creativity, and I'm always looking to learn, innovate, and share my knowledge.
 
 ## 🌐 Interests
 - 🚀 Exploring cutting-edge AI technologies and their applications.
